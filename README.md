@@ -9,8 +9,8 @@ Weather data for selected cities every five minutes, calculating daily summaries
 
 # Testing
 
-*System Setup: Verify successful system startup and API connection using a valid key.
-*Data Retrieval: Simulate API calls at intervals to fetch and parse weather data for specified locations.
-*Temperature Conversion: Test the conversion of temperature values from Kelvin to user-preferred units (Celsius or Fahrenheit).
-*Daily Weather Summary: Simulate multiple days of weather updates to ensure accurate daily summaries of temperature and conditions.
-*Alerting Thresholds: Configure thresholds for temperature and conditions, and validate that alerts are triggered only when exceeded.
+#System Setup: Verify successful system startup and API connection using a valid key.
+#Data Retrieval: Simulate API calls at intervals to fetch and parse weather data for specified locations.
+#Temperature Conversion: Test the conversion of temperature values from Kelvin to user-preferred units (Celsius or Fahrenheit).
+#Daily Weather Summary: Simulate multiple days of weather updates to ensure accurate daily summaries of temperature and conditions.
+#Alerting Thresholds: Configure thresholds for temperature and conditions, and validate that alerts are triggered only when exceeded.
